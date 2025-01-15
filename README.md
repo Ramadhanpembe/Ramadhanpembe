@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramadhanpembe
-- 👀 I’m interested in java for web applications
-- 🌱 I’m currently learning spring boot framework
-- 📫 How to reach me +255 692 375 547 whatsapp
+- 👀 I’m interested in data science and Artificial Intelligence
+- 🌱 I’m currently learning MTech of Data Science and Artificial Intelligence
+- 📫 How to reach me +255 778 549 127 whatsapp
 
 <!---
 Ramadhanpembe/Ramadhanpembe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
