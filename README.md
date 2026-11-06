@@ -11,7 +11,7 @@ I turn messy, real-world data (PDFs, scanned documents, transactional records) i
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -24,18 +24,17 @@ I turn messy, real-world data (PDFs, scanned documents, transactional records) i
 
 ---
 
-## 🧰 Tech stack
+## 🧰 Tech Stack
 
 **Languages & databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
-**Data engineering (actively learning)**
+**Data Engineering (actively learning)**
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
@@ -47,7 +46,7 @@ I turn messy, real-world data (PDFs, scanned documents, transactional records) i
 ![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?logo=apacheflink&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
-**Engineering & tooling**
+**Engineering & Tooling**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -56,7 +55,7 @@ I turn messy, real-world data (PDFs, scanned documents, transactional records) i
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316)
 
-**Data processing & analytics**
+**Data Processing & Analytics**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white)
@@ -64,7 +63,7 @@ I turn messy, real-world data (PDFs, scanned documents, transactional records) i
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF)
 
-**AI & machine learning**
+**AI & Machine Learning**
 
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6)
 ![RAG](https://img.shields.io/badge/RAG-0A66C2)
@@ -75,20 +74,13 @@ I turn messy, real-world data (PDFs, scanned documents, transactional records) i
 
 ---
 
-## 🎓 Learning & certifications
+## 🎓 Learning & Certifications
 
 - 🔄 **Google Professional Data Engineer**: in progress
 - 🔄 **Data Engineering Zoomcamp** (DataTalksClub): in progress
 - ✅ **Meta Data Analyst Professional Certificate** (Coursera)
 - ✅ **TensorFlow Developer Certificate**
-- ✅ **Advanced coursework in Data Science & AI** (IIT Madras)
-
----
-
-## 📊 GitHub stats
-
-![Ramadhan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramadhanpembe&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhanpembe&layout=compact&theme=tokyonight&hide_border=true)
+- ✅ **Advanced coursework in Data Science & AI** (IIT Madras, Zanzibar)
 
 ---
 
